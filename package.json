@@ -1,0 +1,25 @@
+{
+  "name": "garcia_jwt_decoder",
+  "version": "1.0.0",
+  "description": "This a simpre packge to decode jwt",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Garcia-Sebastiao/garcia_jwt_decoder.git"
+  },
+  "keywords": [
+    "jwt",
+    "json",
+    "decode",
+    "web_token"
+  ],
+  "author": "Garcia Sebastião",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Garcia-Sebastiao/garcia_jwt_decoder/issues"
+  },
+  "homepage": "https://github.com/Garcia-Sebastiao/garcia_jwt_decoder#readme"
+}
