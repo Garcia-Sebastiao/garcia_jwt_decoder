@@ -1,10 +1,10 @@
 {
-  "name": "garcia_jwt_decoder",
+  "name": "garcia-jwt-decoder",
   "version": "1.0.0",
   "description": "This a simpre packge to decode jwt",
-  "main": "index.js",
+  "main": "garcia-jwt-decode.js",
   "scripts": {
-    "test": "start"
+    "test": "test"
   },
   "repository": {
     "type": "git",
